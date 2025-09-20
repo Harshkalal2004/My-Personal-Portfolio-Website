@@ -9,3 +9,5 @@ data to support business decisions. Proficient in Excel, SQL, Power BI, Python, 
 using Generative AI tools for advanced data analysis and visualization. Strong in creating dashboards, generating
 reports, and solving real-world data problems. Passionate about turning raw data into meaningful insights and
 continuously learning new tools and techniques.
+
+Thank You Fro Visite!
